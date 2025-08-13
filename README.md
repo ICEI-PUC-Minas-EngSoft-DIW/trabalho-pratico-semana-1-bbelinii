@@ -2,17 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Bernardo Belini Vale
+Matricula: 898550
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![navegador](<images/Network Process.png>)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![projeto replit](images/replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
